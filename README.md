@@ -56,7 +56,7 @@ Before running the project, ensure you have the following installed:
    yarn dev
    ```
 
-5. Open your browser and go to `http://localhost:5173` to view the app running locally.
+5. Open your browser and go to `http://localhost:3000` or `http://localhost:5173` to view the app running locally.
 
 ## Links
 
