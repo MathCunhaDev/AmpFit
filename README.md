@@ -60,8 +60,7 @@ Before running the project, ensure you have the following installed:
 
 ## Links
 
-- **Live Application on Vercel**: [https://ampfit.vercel.app](https://ampfit.vercel.app)
-- **GitHub Repository**: [https://github.com/yourusername/ampfit](https://github.com/yourusername/ampfit)
+- **Live Application on Vercel**: [https://amp-fit.vercel.app/](https://amp-fit.vercel.app/)
 
 ## Libraries Documentation
 
